@@ -1,0 +1,14 @@
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\bin\Debug\BlackJackGame.exe
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\bin\Debug\BlackJackGame.pdb
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\Black-Jack-21.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\Black-Jack-21.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.exe
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.pdb
+D:\OneDrive\Desktop\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+D:\OneDrive\Desktop\BlackJackGame\bin\Debug\BlackJackGame.exe
+D:\OneDrive\Desktop\BlackJackGame\bin\Debug\BlackJackGame.pdb
+D:\OneDrive\Desktop\BlackJackGame\obj\Debug\Black-Jack-21.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\BlackJackGame\obj\Debug\Black-Jack-21.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\BlackJackGame\obj\Debug\BlackJackGame.exe
+D:\OneDrive\Desktop\BlackJackGame\obj\Debug\BlackJackGame.pdb

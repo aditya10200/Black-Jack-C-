@@ -1,0 +1,35 @@
+C:\Users\PRPC-05\source\repos\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+C:\Users\PRPC-05\source\repos\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+C:\Users\PRPC-05\source\repos\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\PRPC-05\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csprojAssemblyReference.cache
+C:\Users\PRPC-05\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\PRPC-05\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Users\PRPC-05\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+E:\C#\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+E:\C#\BlackJackGame\bin\Debug\BlackJackGame.exe
+E:\C#\BlackJackGame\bin\Debug\BlackJackGame.pdb
+E:\C#\BlackJackGame\obj\Debug\BlackJackGame.csprojAssemblyReference.cache
+E:\C#\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+E:\C#\BlackJackGame\obj\Debug\BlackJackGame.exe
+E:\C#\BlackJackGame\obj\Debug\BlackJackGame.pdb
+D:\C#\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+D:\C#\BlackJackGame\bin\Debug\BlackJackGame.exe
+D:\C#\BlackJackGame\bin\Debug\BlackJackGame.pdb
+D:\C#\BlackJackGame\obj\Debug\BlackJackGame.csprojAssemblyReference.cache
+D:\C#\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+D:\C#\BlackJackGame\obj\Debug\BlackJackGame.exe
+D:\C#\BlackJackGame\obj\Debug\BlackJackGame.pdb
+C:\Users\OWNER\Desktop\Assignment 1 C #\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+C:\Users\OWNER\Desktop\Assignment 1 C #\BlackJackGame\bin\Debug\BlackJackGame.exe
+C:\Users\OWNER\Desktop\Assignment 1 C #\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\OWNER\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.csprojAssemblyReference.cache
+C:\Users\OWNER\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Users\OWNER\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.pdb
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\bin\Debug\BlackJackGame.exe
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\bin\Debug\BlackJackGame.pdb
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.exe
+D:\OneDrive\Desktop\Assignment 1 C #\BlackJackGame\obj\Debug\BlackJackGame.pdb
